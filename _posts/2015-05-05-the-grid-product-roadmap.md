@@ -15,7 +15,7 @@ publisher:
   url: null
   favicon: null
 datePublished: "2015-05-05T02:38:15.871Z"
-dateModified: "2015-05-05T15:57:11.772Z"
+dateModified: "2015-05-05T17:16:40.770Z"
 sourcePath: _posts/2015-05-05-the-grid-product-roadmap.md
 published: true
 _type: null
