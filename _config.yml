@@ -1,7 +1,7 @@
 name: Reema
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.6
+layout_spectrum: 0.29825
+typography_spectrum: 0
 site_lang: ar
 style: taylor
 title: Reema
@@ -19,11 +19,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - "#2b2422"
-    - "#cbd9e0"
-    - "#45677a"
-    - "#9c3627"
-    - "#c38b73"
+    - '#2b2422'
+    - '#cbd9e0'
+    - '#45677a'
+    - '#9c3627'
+    - '#c38b73'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
