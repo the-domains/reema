@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Reema]]></title>
+        <description><![CDATA[Reema]]></description>
+        <link>http://iamreema.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 21 Nov 2015 14:40:52 GMT</lastBuildDate>
+        <atom:link href="http://iamreema.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How To Land Any Job You Apply For]]></title>
+            <description><![CDATA[<article><h1>How To Land Any Job You Apply For</h1><p>Care about the company. Do your research. </p></article>]]></description>
+            <link>http://iamreema.com/how-to-land-any-job-you-apply-for/index.html</link>
+            <guid isPermaLink="false">db0d8c03-b792-43fa-bd0d-1b9a75d28235</guid>
+            <pubDate>Sat, 21 Nov 2015 14:40:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This is a titleThis is h2.This is body text.]]></title>
+            <description><![CDATA[<article><h1>This is a titleThis is h2.This is body text.</h1><p>New description of the post</p></article>]]></description>
+            <guid isPermaLink="false">9bf25199-740d-47f1-a432-2f51c296c672</guid>
+            <pubDate>Tue, 01 Sep 2015 20:20:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
