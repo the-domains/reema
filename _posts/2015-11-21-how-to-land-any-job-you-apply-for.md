@@ -6,25 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-21T14:47:56.076Z'
-dateModified: '2015-11-21T14:44:39.290Z'
+datePublished: '2015-11-24T19:46:42.652Z'
+dateModified: '2015-11-24T19:46:38.434Z'
 title: How To Land Any Job You Apply For
 author: []
+sourcePath: _posts/2015-11-21-how-to-land-any-job-you-apply-for.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-21-how-to-land-any-job-you-apply-for.md
-published: true
 url: how-to-land-any-job-you-apply-for/index.html
 _type: Article
 
 ---
 # How To Land Any Job You Apply For
-
-Care about the company. **Do your research. **
 
 Companies receive hundreds if not thousands of applications a day, and if you focus on only what you're looking for and what you need out of the job you're applying for, it's almost impossible to get noticed. 
 
