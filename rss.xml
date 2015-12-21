@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Reema]]></title>
-        <description><![CDATA[Reema]]></description>
+        <title><![CDATA[This is my tagline]]></title>
+        <description><![CDATA[This is my tagline]]></description>
         <link>http://iamreema.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 19:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 06:59:25 GMT</lastBuildDate>
         <atom:link href="http://iamreema.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How To Land Any Job You Apply For]]></title>
@@ -12,12 +12,6 @@
             <link>http://iamreema.com/how-to-land-any-job-you-apply-for/index.html</link>
             <guid isPermaLink="false">db0d8c03-b792-43fa-bd0d-1b9a75d28235</guid>
             <pubDate>Tue, 24 Nov 2015 19:46:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is a titleThis is h2.This is body text.]]></title>
-            <description><![CDATA[<article><h1>This is a titleThis is h2.This is body text.</h1><p>New description of the post</p></article>]]></description>
-            <guid isPermaLink="false">9bf25199-740d-47f1-a432-2f51c296c672</guid>
-            <pubDate>Tue, 01 Sep 2015 20:20:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
